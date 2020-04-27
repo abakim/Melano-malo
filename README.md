@@ -15,7 +15,7 @@ En el caso de detectarse lunares malignos, tambien es importante su seguimiento 
 
 --------------------------------
 
-### objetivo
+### Objetivo
 Este trabajo tuvo el objetivo de desarrollar un método que permita a una persona analizar el
 estado de un melanoma y acudir a un médico en caso de síntomas sospechosos, o bien, que sirva de apoyo al profesional en la salud para hacer un seguimiento de la lesión.
 
@@ -36,7 +36,7 @@ En el siguiente link se puede acceder al informe que presenta los detalles técn
 
 --------------------------------
 
-## lenguajes y librerías consideradas
+## Lenguajes y librerías consideradas
 * python 3.7.4
 * OpenCV (librería)
 * MedPy (librería)
@@ -67,7 +67,7 @@ Para cada imágen de lunar, se ha dejado un comentario en aquellos melanomas inc
 
 --------------------------------
 
-## licencia
+## Licencia
 
 <pre>
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional</a>. 
