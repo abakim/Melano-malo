@@ -1,5 +1,5 @@
 
-# Melano-malo
+# MelanoMoles
 Segmentation and classification system for moles suspected of melanoma using image processing
 
 
