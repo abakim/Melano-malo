@@ -1,6 +1,6 @@
 
 # MelanoMoles
-Segmentation and classification system for moles suspected of melanoma using image processing
+Segmentation and classification software for moles suspected of melanoma using image processing
 
 
 ### Problema y contexto
