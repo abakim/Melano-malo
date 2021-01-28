@@ -52,7 +52,7 @@ Para cada imágen de lunar, se ha dejado un comentario en aquellos melanomas inc
 
 --------------------------------
 ## Autores
-* [Emiliano Kalafatic](https://github.com/abakim)
+* [Emiliano Kalafatic](https://github.com/ekalafatic)
 * [Joaquin Gonzalez Budiño](https://github.com/guobiloo)
 
 ## Contacto
