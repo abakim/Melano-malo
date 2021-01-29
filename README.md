@@ -1,7 +1,6 @@
 
 # MelanoMoles
-Segmentation and classification software for moles suspected of melanoma using image processing
-
+Segmentation and classification software for moles suspected of melanoma using image processing, developed in Python with OpenCV library, obtaining 81% of accuracy of 161 real images.
 
 ### Problema y contexto
 Un melanoma maligno tiene la contrapartida de que, si es pronosticado como tal de forma tardía, será muy complicado su
